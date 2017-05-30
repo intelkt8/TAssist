@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author intelkt8
+ * @author intelkt8 !!!!!
  */
 public class GroupGenerator {
 
